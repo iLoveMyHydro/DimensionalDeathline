@@ -2,6 +2,7 @@
 .vs/
 
 # Compiled Object files
+*.DS_Store
 *.slo
 *.lo
 *.o
@@ -38,6 +39,8 @@
 *.suo
 *.opensdf
 *.sdf
+*.vscode
+*.code-workspace
 *.VC.db
 *.VC.opendb
 
@@ -69,6 +72,3 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
-
-# Cache files for the editor to use
-DerivedDataCache/*
