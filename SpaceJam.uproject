@@ -22,9 +22,14 @@
 			]
 		},
 		{
+<<<<<<< Updated upstream
 			"Name": "MounteaDialogueSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ea38ae1f87b24807a66fdf4fa65ef521"
+=======
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+>>>>>>> Stashed changes
 		}
 	]
 }
