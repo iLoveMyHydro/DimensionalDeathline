@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-KawaiiPhysicsEd.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Daria\Documents\GitHub\Whill_O_Whiskers\Intermediate\Build\Win64\x64\SpaceJamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
-"C:\Users\Daria\Documents\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\Module.KawaiiPhysicsEd.cpp.obj"
-"C:\Users\Daria\Documents\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\Default.rc2.res"
-/OUT:"C:\Users\Daria\Documents\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\UnrealEditor-KawaiiPhysicsEd.lib"
+"F:\SSD FILES\GitHub\Whill_O_Whiskers\Intermediate\Build\Win64\x64\SpaceJamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"F:\SSD FILES\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\Module.KawaiiPhysicsEd.cpp.obj"
+"F:\SSD FILES\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\Default.rc2.res"
+/OUT:"F:\SSD FILES\GitHub\Whill_O_Whiskers\Plugins\KawaiiPhysics_5_4_v1.17.1\Plugins\KawaiiPhysics\Intermediate\Build\Win64\x64\UnrealEditor\Development\KawaiiPhysicsEd\UnrealEditor-KawaiiPhysicsEd.lib"
