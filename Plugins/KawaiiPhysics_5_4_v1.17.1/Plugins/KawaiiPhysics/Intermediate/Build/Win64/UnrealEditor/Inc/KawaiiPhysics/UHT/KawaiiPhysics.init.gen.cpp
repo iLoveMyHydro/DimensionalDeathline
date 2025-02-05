@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeKawaiiPhysics_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x8741A5D3,
+				0xEFFBB6D0,
 				0xCEB1438C,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeKawaiiPhysics_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_KawaiiPhysics.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_KawaiiPhysics(Z_Construct_UPackage__Script_KawaiiPhysics, TEXT("/Script/KawaiiPhysics"), Z_Registration_Info_UPackage__Script_KawaiiPhysics, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x8741A5D3, 0xCEB1438C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_KawaiiPhysics(Z_Construct_UPackage__Script_KawaiiPhysics, TEXT("/Script/KawaiiPhysics"), Z_Registration_Info_UPackage__Script_KawaiiPhysics, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xEFFBB6D0, 0xCEB1438C));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
