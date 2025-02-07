@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\kawaiiphysics.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\intermediate\\build\\win64\\x64\\spacejam\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kawaiiphysics\\definitions.kawaiiphysics.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

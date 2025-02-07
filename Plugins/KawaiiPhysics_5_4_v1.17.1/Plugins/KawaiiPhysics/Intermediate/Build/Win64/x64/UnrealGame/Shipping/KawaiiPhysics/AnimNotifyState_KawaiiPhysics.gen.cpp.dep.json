@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\animnotifystate_kawaiiphysics.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\intermediate\\build\\win64\\x64\\spacejam\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kawaiiphysics\\definitions.kawaiiphysics.h",
+            "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\source\\kawaiiphysics\\animnotifies\\animnotifystate_kawaiiphysics.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\instancedstruct.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\source\\structutils\\public\\structutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\experimental\\structutils\\intermediate\\build\\win64\\unrealgame\\inc\\structutils\\uht\\instancedstruct.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotifystate.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animnotifystate.generated.h",
+            "c:\\users\\user\\onedrive\\dokumente\\unreal projects\\dimensionaldeathline\\plugins\\kawaiiphysics_5_4_v1.17.1\\plugins\\kawaiiphysics\\intermediate\\build\\win64\\unrealgame\\inc\\kawaiiphysics\\uht\\animnotifystate_kawaiiphysics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
